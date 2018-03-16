@@ -1,0 +1,20 @@
+.videoFrame {
+    width: 620px;
+    height: 520px;
+    border: 1px solid black;
+}
+
+.vidyo_frame {
+	width: 220px;
+	resize: both;
+    overflow: auto;
+}
+
+.vidyo-cancel-btn-container {
+	margin: 20px;
+}
+
+.vidyo_toast_frame {
+	width: 280px;
+    height: 300px;
+}
